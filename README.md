@@ -1,2 +1,1 @@
-# js-learning
-A repository for some basic JS practice while following The Odin Project
+This repository contains practice material used during the basic Javascript portion of The Odin Project.
